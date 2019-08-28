@@ -1,3 +1,4 @@
+
 public class Finder {
     public static Integer findMax(int[] intArray) {
         if (intArray == null || intArray.length == 0) {
